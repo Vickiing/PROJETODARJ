@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{BF5DC6CC-2B41-41CE-8DF8-66CC0E0250B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{1DC8F6C2-4BB5-4BA0-A9E6-E2C7DDA07357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoApi", "ProjetoApi\ProjetoApi.csproj", "{C562F0D5-D752-4E93-B2B8-7CF887B56EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5DC6CC-2B41-41CE-8DF8-66CC0E0250B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5DC6CC-2B41-41CE-8DF8-66CC0E0250B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5DC6CC-2B41-41CE-8DF8-66CC0E0250B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5DC6CC-2B41-41CE-8DF8-66CC0E0250B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC8F6C2-4BB5-4BA0-A9E6-E2C7DDA07357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC8F6C2-4BB5-4BA0-A9E6-E2C7DDA07357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC8F6C2-4BB5-4BA0-A9E6-E2C7DDA07357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC8F6C2-4BB5-4BA0-A9E6-E2C7DDA07357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C562F0D5-D752-4E93-B2B8-7CF887B56EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C562F0D5-D752-4E93-B2B8-7CF887B56EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C562F0D5-D752-4E93-B2B8-7CF887B56EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C562F0D5-D752-4E93-B2B8-7CF887B56EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
